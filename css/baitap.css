@@ -1,0 +1,40 @@
+#header {
+  border: 2px solid black;
+background-color: #666;
+padding: 10px;
+text-align: CENTER;
+font-size: 15px ;
+/*display: flex;*/
+/*tách hai bên*/
+justify-content: space-around;
+}
+.basic  {
+
+  display: flex;
+  list-style: none;
+  margin: 0;
+ padding-left: 450PX ;
+ 
+}
+.basic a{
+  font-size: 20px;
+  color: black;
+  display: flex;
+padding: 30px 70px;
+/*BỎ DẤU GẠCH CHÂN của*/
+text-decoration: none;
+
+
+}
+hr{
+  margin-top: 20px;
+
+}
+#thanh-ben{
+  
+  padding-left: 1300px;
+  height: 0px;
+  width: 500px;
+ background:  red;
+ 
+}
